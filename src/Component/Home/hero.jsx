@@ -19,7 +19,7 @@ export default function Hero() {
             I'm <span className="text-purple-500">Ayaan Raje</span>
           </h2>
           <p className="text-white text-lg md:text-xl mt-2">
-            UI/UX Designer | Marketing Head | Director & Co-founder at Nexcore Allience.
+            UI/UX Designer | Marketing Head | Director & Co-founder at Nexcore Alliance.
           </p>
           <div className="mt-6">
             <a
