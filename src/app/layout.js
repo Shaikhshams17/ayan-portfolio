@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata = {
   title: "Ayaan Raje",
-  description: "Ayan Raje",
+  description: "Ayaan Raje - UI/UX Designer | Marketing Head | Director & Co-founder at Nexcore Alliance.",
 };
 
 export default function RootLayout({ children }) {
